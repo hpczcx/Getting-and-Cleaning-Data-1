@@ -6,7 +6,7 @@ str(doc)
 doc
 rootNode <- xmlRoot(doc)
 str(rootNode)
-xmlName(rootNode) 
+xmlName(rootNode)
 
 names(rootNode)
 
