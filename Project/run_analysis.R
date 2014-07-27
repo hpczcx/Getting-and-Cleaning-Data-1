@@ -7,7 +7,7 @@
 # Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
 # Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-setwd('C:/Users/dsbmac/Documents/Professional Development/Getting and Cleaning Data/Project')
+setwd('C:/Users/Administrator/Desktop/data clean/week3/pro/UCI HAR Dataset')
 
 # load libraries
 library(reshape)
